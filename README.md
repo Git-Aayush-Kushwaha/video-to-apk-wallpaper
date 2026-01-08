@@ -15,7 +15,11 @@ The video plays after unlocking the device and remains static on the lock screen
 ---
 
 ## 📂 How to Use
+This project converts video into live wallpaper.  
+Read full documentation in the [Wiki]([https://github.com/USERNAME/REPO/wiki](https://github.com/Git-Aayush-Kushwaha/video-to-apk-wallpaper/wiki)).
 
+##Download project.zip file
+[Download file](https://) 
 ### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/your-username/Video-Live-Wallpaper-Template.git

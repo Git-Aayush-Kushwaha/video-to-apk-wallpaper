@@ -19,4 +19,4 @@ This project converts video into live wallpaper.
 Read full documentation in the [Wiki]([https://github.com/USERNAME/REPO/wiki](https://github.com/Git-Aayush-Kushwaha/video-to-apk-wallpaper/wiki)).
 
 Download project.zip file
-[Download file]([https://github.com/Git-Aayush-Kushwaha/video-to-apk-wallpaper/blob/main/Alpine.zip](https://github.com/Git-Aayush-Kushwaha/video-to-apk-wallpaper/releases/tag/android))
+[Download file]([https://github.com/Git-Aayush-Kushwaha/video-to-apk-wallpaper/releases/tag/android])
